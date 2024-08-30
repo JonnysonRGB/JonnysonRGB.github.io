@@ -2,20 +2,41 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About me
+Include information about me here
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Project 1
+# Projects:
+## Attack and Mitigations Labs
 [Project 1](./testProject.html).
+Here I will include infomation about each project 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[Project 2](./testProject.html).
+Here I will include infomation about each project 
 
-## Header 2
+[Project 3](./testProject.html).
+Here I will include infomation about each project 
+
+## Simplified Incident Response Playbooks
+[Project 1](./testProject.html).
+Here I will incluce infomation about each project 
+[Project 2](./testProject.html).
+Here I will incluce infomation about each project 
+[Project 3](./testProject.html).
+Here I will incluce infomation about each project 
+
+## Blog Posts (maybe move this to the side somewhere?)
+[Project 1](./testProject.html).
+Here I will incluce infomation about each project 
+[Project 2](./testProject.html).
+Here I will incluce infomation about each project 
+[Project 3](./testProject.html).
+Here I will incluce infomation about each project 
+
+## CTF Write ups
+## Azure Security Labs
+## Vulnerability Management
+
+
 
 > This is a blockquote following a header.
 >
