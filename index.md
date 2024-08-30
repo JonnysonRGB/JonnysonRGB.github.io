@@ -6,18 +6,22 @@ layout: default
 Include information about me here
 
 # Projects:
-## Attack and Mitigations Labs
-[Project 1](./testProject.html).
+## Attack, Detect and Mitigate Labs
+Attack, Detect and Mitigate labs are labs which demonsrtrate how to carry out a specific attack, what steps a security analyst can take to detection/anaylse the threat aswell as steps an organiscation as a whole can take to mitigate the threat.
+
+[Kerberoasting Attack](./testProject.html).
+Here I will include information about each project 
+
+[Pass Attacks](./testProject.html).
 Here I will include infomation about each project 
 
-[Project 2](./testProject.html).
-Here I will include infomation about each project 
-
-[Project 3](./testProject.html).
+[IPv6 Attacks](./testProject.html).
 Here I will include infomation about each project 
 
 ## Simplified Incident Response Playbooks
-[Project 1](./testProject.html).
+These are incident response playbooks which have been simplified so they can be used as template for different organisations. 
+
+[Ransomware IR Playbook](./testProject.html).
 Here I will incluce infomation about each project 
 [Project 2](./testProject.html).
 Here I will incluce infomation about each project 
@@ -34,6 +38,13 @@ Here I will incluce infomation about each project
 
 ## CTF Write ups
 ## Azure Security Labs
+
+[Project 2](./testProject.html).
+Here I will incluce infomation about each project 
+
+[Project 3](./testProject.html).
+Here I will incluce infomation about each project 
+
 ## Vulnerability Management
 
 
